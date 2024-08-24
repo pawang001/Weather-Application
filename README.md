@@ -1,8 +1,8 @@
 # Weather Application
-Overview
+Overview : 
 This project is a simple yet functional weather application designed to provide real-time weather information using HTML, CSS, and JavaScript. Users can enter a city name to retrieve current weather details, including temperature, humidity, and weather conditions.
 
-Features
+Features : 
 Real-Time Weather Data: Fetches and displays current weather conditions using the OpenWeatherMap API.
 User-Friendly Interface: Clean and responsive design with easy-to-read weather information.
 Search Functionality: Allows users to search for weather details by city name.
